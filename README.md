@@ -40,7 +40,7 @@ Sets the extended fuse byte to 0xFC
  
  
 
-PS: not upload to QMK offical repo yet, but you and clone the [files](https://github.com/zzsmoky/EygptBar-70/tree/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware) to your local qmk_firmware_repository/keyboards/zzsmoky/egyptbar
+PS for those what to compile your own: not upload to QMK offical repo yet, but you and clone the [files](https://github.com/zzsmoky/EygptBar-70/tree/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware) to your local qmk_firmware_repository/keyboards/zzsmoky/egyptbar
 
 
 # PCB
