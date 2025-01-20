@@ -13,7 +13,7 @@ is
 
 a 5*14 keys ortholinear HID keyboard with USB-hub feature and use ATmega328P as MCU, One LED indicator(default as Caps_lock). You may swap its MCU board or Switch board to your favorite one.
 
-In Chinese： 埃及吧用啥用啥。
+In chinese： 埃及吧用啥用啥。
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
 
 # Firmware
