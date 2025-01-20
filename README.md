@@ -9,14 +9,36 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 # EygptBar-70
+is
 
-A 5*14keys ortholinear HID keyboard with USB-hub feature and use ATmega328P as MCU, Hotswap sockets for MX, One LED indicator(default as Caps_lock).
+a 5*14 keys ortholinear HID keyboard with USB-hub feature and use ATmega328P as MCU, One LED indicator(default as Caps_lock). You may swap its MCU board or Switch board to your favorite one.
+
+In Chinese： 埃及吧用啥用啥。
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
 
 # Firmware
 [Complied](https://github.com/zzsmoky/EygptBar-70/blob/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware/zzsmoky_egyptbar.hex)
 or
 [You can complie your own](qmk_firmware/) with this [Doc](https://docs.qmk.fm/newbs_building_firmware)
+
+Burn your ATmega328P with [Avrdude](https://github.com/avrdudes/avrdude) or [Avrdudess](https://github.com/ZakKemble/AVRDUDESS) with this line of command
+
+
+```
+-c [your_favorite_Programer_e.g. stk500v1] -p m328p -P [your_port_e.g. COM8] -e -U flash:w:"C:\[your_path]\zzsmoky_egyptbar.hex":a -U lfuse:w:0xD7:m -U hfuse:w:0xD0:m -U efuse:w:0xFC:m 
+
+```
+
+remember to:
+
+Sets the low fuse byte to 0xD7.
+
+Sets the high fuse byte to 0xD0.
+
+Sets the extended fuse byte to 0xFC
+ 
+ 
+ 
 
 PS: not upload to QMK offical repo yet, but you and clone the [files](https://github.com/zzsmoky/EygptBar-70/tree/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware) to your local qmk_firmware_repository/keyboards/zzsmoky/egyptbar
 
