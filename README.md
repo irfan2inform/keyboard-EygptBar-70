@@ -10,7 +10,7 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 # EygptBar-70
 
-A 5*14keys ortholinear HID keyboard using ATmega328P as MCU. Hotswap sockets for MX, One LED indicator(default as Caps_lock))
+A 5*14keys ortholinear HID keyboard with USB-hub feature and use ATmega328P as MCU, Hotswap sockets for MX, One LED indicator(default as Caps_lock).
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
 
 # BOM
