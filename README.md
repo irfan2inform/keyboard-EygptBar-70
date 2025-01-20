@@ -13,6 +13,19 @@ This work is licensed under a
 A 5*14keys ortholinear HID keyboard with USB-hub feature and use ATmega328P as MCU, Hotswap sockets for MX, One LED indicator(default as Caps_lock).
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
 
+# Firmware
+[Complied](https://github.com/zzsmoky/EygptBar-70/blob/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware/zzsmoky_egyptbar.hex)
+or
+[You can complie your own](qmk_firmware/) with this [Doc](https://docs.qmk.fm/newbs_building_firmware)
+PS: not upload to QMK offical repo yet, but you and clone the [files](https://github.com/zzsmoky/EygptBar-70/tree/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware) to your local qmk_firmware_repository/keyboards/zzsmoky/egyptbar
+
+
+# PCB
+[EasyEDA Pro(嘉立创EDA专业版)](https://github.com/zzsmoky/EygptBar-70/blob/f129200ea4578f9158403ffde063f7f00f164ff5/PCB/EygptBar-70.epro)
+
+# 3D files
+[.STEP Files](https://github.com/zzsmoky/EygptBar-70/blob/f129200ea4578f9158403ffde063f7f00f164ff5/3D_Models.7z)
+
 # BOM
 | Quantity | Comment       | Designator          | Footprint                         |
 | -------- | ------------- | ------------------- | --------------------------------- |
