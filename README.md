@@ -11,7 +11,7 @@ This work is licensed under a
 # EygptBar-70
 is
 
-a 5*14 keys ortholinear HID keyboard with USB-hub feature and use ATmega328P as MCU, One LED indicator(default as Caps_lock). You may swap its MCU board or Switch board to your favorite one.
+A 5×14 keys ortholinear HID keyboard with a USB hub feature, using the ATmega328P as the MCU. It includes one LED indicator (default set as Caps Lock). You can swap the MCU board or switch board with your favorite one.
 
 In chinese： 埃及吧用啥用啥。
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
@@ -40,7 +40,7 @@ Sets the extended fuse byte to 0xFC
  
  
 
-PS for those what to compile your own: not upload to QMK offical repo yet, but you and clone the [files](https://github.com/zzsmoky/EygptBar-70/tree/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware) to your local qmk_firmware_repository/keyboards/zzsmoky/egyptbar
+PS: For those who want to compile their own firmware: it hasn’t been uploaded to the official QMK repo yet, but you can clone the [files](https://github.com/zzsmoky/EygptBar-70/tree/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware) to your local qmk_firmware_repository/keyboards/zzsmoky/egyptbar
 
 
 # PCB
