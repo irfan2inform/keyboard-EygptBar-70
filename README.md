@@ -9,9 +9,7 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 # EygptBar-70
-is
-
-A 5×14 keys ortholinear HID keyboard with a USB hub feature, using the ATmega328P as the MCU. It includes one LED indicator (default set as Caps Lock). You can swap the MCU board or switch board with your favorite one.
+is A 5×14 keys ortholinear HID keyboard with a USB hub feature, using the ATmega328P as the MCU. It includes one LED indicator (default set as Caps Lock). You can swap the MCU board or switch board with your favorite one.
 
 In chinese： 埃及吧用啥用啥。
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
