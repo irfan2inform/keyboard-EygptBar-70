@@ -14,6 +14,7 @@ is A 5×14 keys ortholinear HID keyboard with a USB hub feature, using the ATmeg
 In chinese： 埃及吧用啥用啥。
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
 
+
 # Firmware
 [Complied](https://github.com/zzsmoky/EygptBar-70/blob/f129200ea4578f9158403ffde063f7f00f164ff5/qmk_firmware/zzsmoky_egyptbar.hex)
 or
