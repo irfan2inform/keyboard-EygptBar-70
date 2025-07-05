@@ -1,6 +1,14 @@
 # EygptBar-70
 is A 5×14 keys **ortholinear** HID keyboard with a USB hub feature, using the ATmega328P as the MCU. It includes one LED indicator (default set as Caps Lock). You can swap the MCU board or switch board with your favorite one.
 
+![Image](https://github.com/user-attachments/assets/6a262bb4-1907-4117-9434-2a4f9b526387)
+
+![Image](https://github.com/user-attachments/assets/c98a37a7-7a98-4a15-b124-bde146653b94)
+
+![Image](https://github.com/user-attachments/assets/cb64b910-1d11-4d01-858b-4968a3f8ad01)
+
+
+
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
 
 
