@@ -13,7 +13,7 @@ From Smoky.
 
 # PCB Design files using EasyEDA
 
-<img width="1919" height="1033" alt="Image" src="https://github.com/user-attachments/assets/7110c5b0-06f5-4c40-bfa1-682256565b5b" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/7110c5b0-06f5-4c40-bfa1-682256565b5b" />
 <img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/d20f04b4-770a-41f1-882a-4e07124c459b" />
 <img width="1919" height="1030" alt="Image" src="https://github.com/user-attachments/assets/9c5beb7b-e084-4e23-849e-a794d3162979" />
 <img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/fe4cb7c1-f438-4a30-b132-7d1cd72be601" />
