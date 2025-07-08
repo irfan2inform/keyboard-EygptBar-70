@@ -8,8 +8,23 @@ is A 5×14 keys **ortholinear** HID keyboard with a USB hub feature, using the A
 ![Image](https://github.com/user-attachments/assets/cb64b910-1d11-4d01-858b-4968a3f8ad01)
 
 
-
+From Smoky. 
 ![P_20250119_000836](https://github.com/user-attachments/assets/5616d02a-8f3d-4b46-9daa-9eff89a8c298)
+
+# PCB Design files using EasyEDA
+
+<img width="1919" height="1033" alt="Image" src="https://github.com/user-attachments/assets/7110c5b0-06f5-4c40-bfa1-682256565b5b" />
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/d20f04b4-770a-41f1-882a-4e07124c459b" />
+<img width="1919" height="1030" alt="Image" src="https://github.com/user-attachments/assets/9c5beb7b-e084-4e23-849e-a794d3162979" />
+<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/fe4cb7c1-f438-4a30-b132-7d1cd72be601" />
+<img width="1919" height="1032" alt="Image" src="https://github.com/user-attachments/assets/a3944268-a285-4e34-b91c-696efded876f" />
+<img width="1919" height="1029" alt="Image" src="https://github.com/user-attachments/assets/e2215814-931b-4335-afb6-ea49e7ac3bdf" />
+<img width="1919" height="1034" alt="Image" src="https://github.com/user-attachments/assets/071e9ebb-33e5-403d-a1dd-c59103b2f040" />
+<img width="1917" height="1026" alt="Image" src="https://github.com/user-attachments/assets/767ff47c-61c6-4590-aeab-bdeb9794c287" />
+<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/7dd48f32-8269-4986-998a-f3ca06c561db" />
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/2f24d153-2fd9-4583-91db-7a02bd0362fd" />
+<img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/d4bbcf44-7fab-47ca-aa48-28f194faabc5" />
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/680d831a-46a2-492a-a15b-e02680516967" />
 
 
 # Firmware
